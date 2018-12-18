@@ -1,4 +1,4 @@
-package com.shuidaostore;
+package com.reactnativemobxplayground;
 
 import android.app.Application;
 
